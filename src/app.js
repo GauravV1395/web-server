@@ -37,7 +37,7 @@ app.get("/about", (req, res) => {
   res.render("about", {
     // about is the name of the file that needs to be rendered and the object contains values that can be used in the hbs file.
     title: "about me",
-    name: "hello"
+    name: "Gaurav"
   });
 });
 
