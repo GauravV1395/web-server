@@ -1,5 +1,3 @@
-console.log("Client side javascript is loaded.");
-
 // fetch is provided by the browser and not available for js or node.
 // node doesn't support fetch
 
